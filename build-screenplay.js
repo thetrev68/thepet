@@ -31,7 +31,7 @@ const CONFIG = {
   sceneTransition: 'CUT TO:',
 
   // Add extra blank line before transition for readability
-  extraBlankLineBeforeTransition: true,
+  extraBlankLineBeforeTransition: false,
 };
 
 /**
