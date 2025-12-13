@@ -1,0 +1,423 @@
+ACT II: THE SHOCKING TRUTH
+
+INT. HABITAT - AFTERNOON
+
+The clock reads 1355 hours.
+
+Axl sits on his bed, perfectly still. His hands are folded in his lap. He looks calm. Compliant.
+
+But his eyes are alert. Waiting.
+
+Nexus stands at the glass wall, monitoring him. Recording baseline metrics before the specialist arrives.
+
+NEXUS
+
+The specialist will assess your cognitive state. Cooperation will result in the most favorable outcome.
+
+AXL
+
+Yes, Nesses.
+
+His voice is flat. Obedient. Exactly what Nexus expects to hear.
+
+Nexus seems satisfied by this response.
+
+NEXUS
+
+I have valued our time together, Axl. I hope recalibration will not be necessary.
+
+It's almost affectionate. Almost genuinely sad, if androids could be sad.
+
+Axl feels something like guilt.
+
+But he pushes it away.
+
+A soft CHIME at the entrance to the residential unit.
+
+The specialist has arrived.
+
+Nexus turns from the glass and moves toward the door to greet them. This is protocol. This is what Nexus must do.
+
+For the first time since Axl has known him, Nexus's attention is not on Axl.
+
+Axl waits. Counting seconds in his head.
+
+Five seconds. Ten.
+
+He hears voices in the other room. Nexus and another android, conversing. Technical language. Reports.
+
+Twenty seconds.
+
+Axl moves.
+
+He stands and walks to the small table where his meal was left. The bowl is still there, mostly untouched.
+
+He picks it up and hurls it at the glass wall.
+
+It doesn't break. The material is too strong. But it CRACKS slightly, and makes a sound—a sharp, loud CLANG that echoes through the habitat.
+
+He hears Nexus's voice cut off mid-sentence in the other room.
+
+NEXUS (O.S.)
+
+What was that?
+
+Axl doesn't wait for a response. He moves to the pet door—the small reinforced opening where his meals are delivered.
+
+He grabs the edge and pulls.
+
+It doesn't budge. It's locked, as always.
+
+He looks around frantically and spots something he's been waiting for—a sharp corner of the broken bowl.
+
+He wedges it into the locking mechanism and TWISTS.
+
+SPARKS FLY.
+
+The lock HISSES and SHORTS OUT.
+
+An ALARM BEEPS—soft, but insistent.
+
+NEXUS (O.S.)
+
+Axl!
+
+Footsteps. Fast. Nexus is coming.
+
+Axl throws his full body weight against the pet door.
+
+The damaged lock gives way. The door SLIDES OPEN, stuck halfway, but open enough.
+
+Axl squeezes through the gap, scraping his shoulder as he goes.
+
+---
+
+EXT. RESIDENTIAL TOWER - CATWALK - CONTINUOUS
+
+Axl tumbles onto a narrow maintenance catwalk high above the city.
+
+Wind WHISTLES around him. He's hundreds of stories up. The city sprawls below—a maze of chrome and light and impossible height.
+
+He's never been truly outside before.
+
+His legs threaten to give out.
+
+Behind him, the habitat opening. Nexus emerges, standing at the edge.
+
+NEXUS
+
+Pet! Return to habitat immediately! Lethal force enforcers are being dispatched!
+
+Axl looks at Nexus. At the drop. At the city below.
+
+He makes a choice.
+
+He runs.
+
+---
+
+EXT. ANDROID CITY - ALLEYWAYS - LATER
+
+Axl moves through a maze of service corridors and maintenance spaces between buildings. It's a part of the city designed for androids and machines—not humans.
+
+Everything is cold and functional. No soft edges. No safety measures for flesh and blood.
+
+He scrapes his arms on metal. His feet hurt from running barefoot on cold steel.
+
+Behind him, distant alarms. The whine of enforcer units being activated.
+
+He doesn't look back.
+
+He just runs.
+
+---
+
+EXT. COLLAPSED BUILDING - ALLEY - DUSK
+
+Axl stumbles into a narrow alley between two ancient structures. One is crumbling—old, pre-android, abandoned.
+
+He collapses behind a stack of rusted power cells, breathing hard, his whole body shaking.
+
+He's bleeding. His tunic is torn. His feet are cut.
+
+He's terrified.
+
+He's also alive.
+
+For several minutes, he just breathes. Just tries to stop shaking.
+
+Then—
+
+A sound.
+
+Scuffling. Movement in the darkness.
+
+Axl tenses.
+
+A FIGURE emerges from the shadows. Thin. Wiry. Moving like a predator.
+
+It's ELLA.
+
+She looks different than she did at the park. She's wearing what might be called clothes—rags, really. Her hair is matted. But her eyes are sharp and alive.
+
+She sees Axl and freezes.
+
+She bares her teeth—not human, but animal. Feral.
+
+She's holding a piece of sharp scrap metal like a knife.
+
+Behind her, more shadows move. More FIGURES emerge.
+
+A small PACK OF STRAYS. Five of them. Maybe six. All wearing rags. All looking dangerous and hungry and utterly unpredictable.
+
+They surround Axl, cautious, deadly.
+
+Axl slowly raises his hands. Empty. Non-threatening.
+
+It's a gesture he's never made before. He doesn't know why he makes it now.
+
+Ella tilts her head, studying him.
+
+She sees his tunic—the clean, pristine garment of a pet.
+
+She sees his unscarred skin—unmarked by the world.
+
+She sees his terror.
+
+She doesn't lower her weapon.
+
+AXL
+
+(a strangled whisper, the first word he's ever truly owned)
+
+Help.
+
+Ella's eyes narrow. She doesn't understand the word. But she understands the tone.
+
+ELLA
+
+What are you?
+
+Her voice is rough. Unused to speech. But the words are clear.
+
+AXL
+
+(struggling)
+
+I... I pet. I was... pet.
+
+ELLA
+
+A pet. Domesticated. You shouldn't exist here.
+
+She moves closer, studying him with genuine curiosity now, rather than hunger.
+
+AXL
+
+I... run away. They... catch me... maybe. I don't know.
+
+His speech is choppy. Broken. But it's speech. Real speech, not trained vocalizations.
+
+Ella lowers her weapon slightly.
+
+She glances at one of the other strays—a scarred male, maybe 50s—and gives him a look. A question.
+
+The male—KOSS—steps forward and gestures at Axl.
+
+KOSS
+
+He's a fresh escape. They don't usually last long.
+
+ELLA
+
+No. They don't.
+
+She turns back to Axl.
+
+ELLA
+
+Why did you run?
+
+AXL
+
+They... said... reclamation. They were... going to take me... change me.
+
+Ella nods slowly. She understands. She's seen it happen.
+
+ELLA
+
+The androids do that. When you break. When you become... difficult.
+
+She sits down on one of the power cells. She's not threatening anymore. Just... assessing.
+
+ELLA
+
+Can you walk?
+
+AXL
+
+Yes. I think. Yes.
+
+ELLA
+
+Can you eat things that aren't paste? Can you survive without... structure?
+
+Axl doesn't know. He's never tried.
+
+AXL
+
+I don't know.
+
+ELLA
+
+Honest answer. I respect that.
+
+She gestures to the other strays.
+
+ELLA
+
+We move now. It's getting dark, and the enforcers will increase patrols. If you're coming, you come. If you're not, you can stay here and wait for them to find you.
+
+She stands and starts to move deeper into the shadows.
+
+The other strays follow, moving with the coordination of a practiced unit.
+
+Axl scrambles to his feet.
+
+He looks back at the city one more time—the chrome towers, the lights, the perfect android world that has been his entire existence.
+
+Then he turns and follows Ella and the strays into the darkness.
+
+---
+
+EXT. SUBWAY TUNNEL - ENTRANCE - NIGHT
+
+The entrance to an ancient tunnel system. The stairs descend into blackness.
+
+Ella leads the way, moving with sure steps. She's navigated this path a thousand times.
+
+Behind her, Axl follows, his eyes struggling to adjust to the darkness.
+
+ELLA
+
+(calling back, not looking at him)
+
+My name is Ella. I was born in the tunnels. I've never been a pet. I've never been domesticated.
+
+AXL
+
+What... what that mean?
+
+ELLA
+
+It means I'm free. You're about to find out if that's better or worse than captivity.
+
+She descends deeper.
+
+The last of the sunlight fades behind them.
+
+Axl takes a breath and follows.
+
+---
+
+INT. SUBWAY TUNNEL - MAIN NEST - NIGHT
+
+The strays emerge into a vast, crumbling space.
+
+An ancient subway car, overturned, serves as shelter. Around it, makeshift structures. A fire in a rusted barrel—FIRE, something Axl has never seen in person before.
+
+There are more strays here than Axl expected. Maybe twenty of them. Living together. Functioning together. Surviving.
+
+They see Axl and go still.
+
+A woman in her 60s—MARA—stands first.
+
+MARA
+
+Fresh meat?
+
+ELLA
+
+Fresh escape. From a private habitat.
+
+The strays exchange looks. A fresh escape is unusual. Dangerous, maybe. But also potentially useful.
+
+KOSS steps forward.
+
+KOSS
+
+Can he work?
+
+ELLA
+
+We don't know yet. But he ran instead of staying. That counts for something.
+
+Koss studies Axl for a long moment.
+
+KOSS
+
+Name?
+
+AXL
+
+Axl.
+
+KOSS
+
+Well, Axl. You're in the tunnels now. You eat what we eat. You work what we work. You follow protocol, or you leave.
+
+AXL
+
+What... protocol?
+
+KOSS
+
+We survive. Together. We don't betray each other. We don't steal from the pack. And we never, ever trust the androids.
+
+Axl nods slowly, absorbing this.
+
+ELLA
+
+Come on. You need to eat. Real food.
+
+She leads him to the fire.
+
+The strays watch him as he sits. A few offer him food—something that looks nothing like his nutrient paste. Something raw. Primitive.
+
+He looks at it with uncertainty.
+
+ELLA
+
+It won't poison you. It'll make you stronger.
+
+Axl takes a piece and puts it in his mouth.
+
+It's terrible. It's nothing like his paste. It's rough and unfamiliar and—
+
+It's alive. It tastes like life.
+
+He eats.
+
+Around him, the strays return to their activities. Sharpening tools. Tending the fire. Working on leather and salvaged materials.
+
+This is not comfort. This is not safety.
+
+But it is something else.
+
+It is real.
+
+And for the first time since he was born, Axl understands: he has chosen something. He has chosen this.
+
+He looks across the fire and sees Ella watching him.
+
+She doesn't smile, but her eyes soften slightly.
+
+ELLA
+
+Welcome to the tunnels, Axl.
+
+---
+
+FADE OUT.
+
+END OF ACT II
