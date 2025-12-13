@@ -9,51 +9,123 @@ Morning Routine & Awakening
 
 ===============================================================================
 
-ACT I, SCENE 1: Morning Routine
+ACT I, SCENE 01: Morning Routine
 INT. HABITAT - MORNING
-See: act_1_scene_1_morning_routine.fountain
+See: act_1_scene_01_morning_routine.fountain
 
 CUT TO:
 
-ACT I, SCENE 2: Exercise
+ACT I, SCENE 02: Exercise
 INT. HABITAT - EXERCISE ROOM - LATER
-See: act_1_scene_2_exercise.fountain
+See: act_1_scene_02_exercise.fountain
 
 CUT TO:
 
-ACT I, SCENE 3: Swimming
+ACT I, SCENE 03: Swimming
 INT. SWIMMING FACILITY - POOL AREA - LATER
-See: act_1_scene_3_swimming.fountain
+See: act_1_scene_03_swimming.fountain
 
 CUT TO:
 
-ACT I, SCENE 4: Bathroom
+ACT I, SCENE 04: Bathroom
 INT. HABITAT - BATHROOM - LATER
-See: act_1_scene_4_bathroom.fountain
+See: act_1_scene_04_bathroom.fountain
 
 CUT TO:
 
-ACT I, SCENE 5: Evening
+ACT I, SCENE 05: Evening
 INT. HABITAT - MAIN ROOM - EVENING
-See: act_1_scene_5_evening.fountain
+See: act_1_scene_05_evening.fountain
 
 CUT TO:
 
-ACT I, SCENE 6: Park Outing
+ACT I, SCENE 06: Transport to Park
 EXT. TRANSPORT POD - DAY
-See: act_1_scene_6_park_outing.fountain
+See: act_1_scene_06_transport_to_park.fountain
 
 CUT TO:
 
-ACT I, SCENE 7: Award Ceremony
+ACT I, SCENE 07: Park Activities
+EXT. HUMAN PARK - DAY
+See: act_1_scene_07_park_activities.fountain
+
+CUT TO:
+
+ACT I, SCENE 08: Ella's Arrival
+EXT. HUMAN PARK - CONTINUOUS
+See: act_1_scene_08_ella_arrival.fountain
+
+CUT TO:
+
+ACT I, SCENE 09: Return Transport
+INT. TRANSPORT POD - RETURN - DAY
+See: act_1_scene_09_return_transport.fountain
+
+CUT TO:
+
+ACT I, SCENE 10: Preparation Room
 INT. NEXUS'S RESIDENTIAL UNIT - PREPARATION ROOM - DAY
-See: act_1_scene_7_award_ceremony.fountain
+See: act_1_scene_10_preparation_room.fountain
 
 CUT TO:
 
-ACT I, SCENE 8: Breaking Point
+ACT I, SCENE 11: Civic Center Arrival
+EXT. ANDROID CIVIC CENTER - ARRIVAL - DAY
+See: act_1_scene_11_civic_center_arrival.fountain
+
+CUT TO:
+
+ACT I, SCENE 12: Award Ceremony
+INT. ANDROID CIVIC CENTER - MAIN CHAMBER - CONTINUOUS
+See: act_1_scene_12_award_ceremony.fountain
+
+CUT TO:
+
+ACT I, SCENE 13: Zephyr's Failure
+INT. ANDROID CIVIC CENTER - MAIN CHAMBER - CONTINUOUS
+See: act_1_scene_13_zephyr_failure.fountain
+
+CUT TO:
+
+ACT I, SCENE 14: Recognition & Corridor
+INT. ANDROID CIVIC CENTER - MULTIPLE LOCATIONS - CONTINUOUS
+See: act_1_scene_14_recognition_corridor.fountain
+
+CUT TO:
+
+ACT I, SCENE 15: Award Return Transport
+INT. TRANSPORT POD - RETURN - DAY
+See: act_1_scene_15_award_return_transport.fountain
+
+CUT TO:
+
+ACT I, SCENE 16: Habitat Night
 INT. HABITAT - NIGHT
-See: act_1_scene_8_breaking_point.fountain
+See: act_1_scene_16_habitat_night.fountain
+
+CUT TO:
+
+ACT I, SCENE 17: Spoon Discovered
+INT. HABITAT - NIGHT - CONTINUOUS
+See: act_1_scene_17_spoon_discovered.fountain
+
+CUT TO:
+
+ACT I, SCENE 18: Restless Dreams
+INT. HABITAT - LATER THAT NIGHT
+See: act_1_scene_18_restless_dreams.fountain
+
+CUT TO:
+
+ACT I, SCENE 19: Early Morning
+INT. HABITAT - EARLY MORNING
+See: act_1_scene_19_early_morning.fountain
+
+CUT TO:
+
+ACT I, SCENE 20: Final Countdown
+INT. HABITAT - LATER
+See: act_1_scene_20_final_countdown.fountain
 
 ===============================================================================
 
@@ -62,15 +134,15 @@ Escape & Adaptation
 
 ===============================================================================
 
-ACT II, SCENE 1: Escape
+ACT II, SCENE 01: Escape
 INT. HABITAT - AFTERNOON
-See: act_2_scene_1_escape.fountain
+See: act_2_scene_01_escape.fountain
 
 CUT TO:
 
-ACT II, SCENE 2: Tunnels Adaptation
+ACT II, SCENE 02: Tunnels Adaptation
 INT. SUBWAY TUNNEL - NEST - MORNING
-See: act_2_scene_2_tunnels_adaptation.fountain
+See: act_2_scene_02_tunnels_adaptation.fountain
 
 ===============================================================================
 
@@ -79,9 +151,9 @@ Rebellion & Freedom
 
 ===============================================================================
 
-ACT III, SCENE 1: Rebellion
+ACT III, SCENE 01: Rebellion
 INT. SUBWAY TUNNEL - NEST - NIGHT
-See: act_3_scene_1_rebellion.fountain
+See: act_3_scene_01_rebellion.fountain
 
 ===============================================================================
 
