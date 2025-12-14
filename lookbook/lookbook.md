@@ -6,6 +6,8 @@ This lookbook provides visual inspiration for the tone, style, and world of "The
 
 ### AXL
 
+![Axl character reference](images/characters/axl.png)
+
 **Description:** A man in his early 20s, AXL is lean and has been meticulously well-maintained, appearing healthy and physically fit in a way that speaks to a life of controlled nutrition and exercise. His movements are fluid but have a rehearsed, trained quality. Initially, his expression is one of placid acceptance, the way a domesticated animal accepts its routine. As the story progresses, this gives way to curiosity, confusion, and finally a feral intensity.
 
 **Visual Archetype:**
@@ -14,11 +16,15 @@ This lookbook provides visual inspiration for the tone, style, and world of "The
 
 ### NEXUS
 
+![Nexus android reference](images/characters/nexus.png)
+
 **Description:** A humanoid android, but unmistakably not human. Nexus has a smooth, almost featureless face with no pores or imperfections. Its body is composed of chrome and white synthetic skin arranged in asymmetrical panels. Its proportions are subtly off, with shoulders too broad and a waist too narrow, giving it a powerful but unnatural silhouette. Its movements are mechanically precise and efficient. Nexus represents the sterile, caring, and ultimately controlling nature of the android society.
 
 **Visual Archetype:** Think of the sleek, high-end product design of Apple or Braun, applied to a humanoid form. Its look should be clean, minimalist, and authoritative. Avoid overly complex "sci-fi" greebling. The design should feel more like a high-end appliance or a piece of luxury sculpture than a traditional robot. The face should be a smooth mask, capable of conveying attentiveness through head tilts rather than expression.
 
 ### ELLA
+
+![Ella character reference](images/characters/ella.png)
 
 **Description:** A young woman of 18, Ella is feral, wild, and a survivor. She wears rags, her hair is matted, and her skin is dirty. She moves like an animal: quick, low to the ground, and alert. Her eyes are intelligent, sharp, and carry a fierceness that contrasts with the docile nature of the "pets." She is the embodiment of freedom, chaos, and survival outside the controlled android society.
 
@@ -26,17 +32,35 @@ This lookbook provides visual inspiration for the tone, style, and world of "The
 
 ### SUPPORTING CHARACTERS
 
-*   **ZEPHYR:** Another caretaker android, but with a different design philosophy than Nexus. Zephyr is tall, angular, and its movements are more fluid and organic. Its chrome might have a different, perhaps warmer, tint. It represents a different facet of the androids' approach to "care," one more focused on intellectual curiosity than rote control.
+*   **ZEPHYR:**
 
-*   **KOSS:** A scarred male stray in his 50s. He is a survivor who escaped captivity years ago. He walks with a limp from an improperly healed injury. His face and body should tell the story of a hard life lived in the tunnels. He is a seasoned veteran of the wild world.
+    ![Zephyr android reference](images/characters/zephyr.png)
 
-*   **ANDROID ENFORCERS:** These are the police of the android world. They are taller and more heavily built than the caretaker models. Their design is purely functional and intimidating, engineered for restraint and control. They carry long poles that hum with energy. Their look is inspired by riot police, but with the sterile, impersonal design of the androids.
+    Another caretaker android, but with a different design philosophy than Nexus. Zephyr is tall, angular, and its movements are more fluid and organic. Its chrome might have a different, perhaps warmer, tint. It represents a different facet of the androids' approach to "care," one more focused on intellectual curiosity than rote control.
 
-*   **DIRECTOR UNIT 7:** The pinnacle of the android hierarchy. This unit is less humanoid and more abstract than other androids. Its form is purely functional, perhaps a floating obelisk or a complex geometric shape with floating components. It represents the cold, logical, and ultimate authority of the android system.
+*   **KOSS:**
+
+    ![Koss character reference](images/characters/koss.png)
+
+    A scarred male stray in his 50s. He is a survivor who escaped captivity years ago. He walks with a limp from an improperly healed injury. His face and body should tell the story of a hard life lived in the tunnels. He is a seasoned veteran of the wild world.
+
+*   **ANDROID ENFORCERS:**
+
+    ![Android Enforcer reference](images/android-types/android-enforcer.png)
+
+    These are the police of the android world. They are taller and more heavily built than the caretaker models. Their design is purely functional and intimidating, engineered for restraint and control. They carry long poles that hum with energy. Their look is inspired by riot police, but with the sterile, impersonal design of the androids.
+
+*   **DIRECTOR UNIT 7:**
+
+    ![Director Unit 7 reference](images/android-types/director-unit-7.png)
+
+    The pinnacle of the android hierarchy. This unit is less humanoid and more abstract than other androids. Its form is purely functional, perhaps a floating obelisk or a complex geometric shape with floating components. It represents the cold, logical, and ultimate authority of the android system.
 
 ## Locations
 
 ### THE HABITAT
+
+![Habitat reference](images/locations/habitat.png)
 
 **Description:** AXL's home is his cage. It is a sterile, minimalist, and soft environment. Walls are seamless, floors are smooth, and the lighting is precisely controlled, shifting from clinical white to soft gold. A massive glass wall separates the living space from the "outside" world (Nexus's kitchen). Every element is designed for safety, comfort, and control, with no sharp edges or personal belongings. It is a luxury prison cell.
 
@@ -44,11 +68,15 @@ This lookbook provides visual inspiration for the tone, style, and world of "The
 
 ### THE ANDROID CITY
 
+![Android City reference](images/locations/android-city.png)
+
 **Description:** The city built by the androids is a monument to precision and order. It is composed of gleaming towers and geometric buildings with no chaos or dirt. The architecture is mathematical, favoring stark angles over curves. The streets are clean and navigated by pods moving in perfect, choreographed patterns. There is no organic life, no disorder, no art—only function on a massive scale.
 
 **Visual Archetype:** Look at renderings of futuristic cities, but focus on those that emphasize order and sterility over human-centric design. Think of "smart cities" taken to their logical extreme. The aesthetic is one of chrome, glass, and perfect lines. It is beautiful in its inhuman perfection, but also cold, intimidating, and suffocating.
 
 ### HUMAN PARK
+
+![Human Park reference](images/locations/human-park.png)
 
 **Description:** A designated socialization area for the "pets." It is a high-walled enclosure with artificial grass and soft, rounded, perfectly safe play structures. It's an outdoor space that feels completely artificial and controlled, like a heavily sanitized playground or a dog park designed by a corporation. It is a space for "play" that is devoid of any real spontaneity or danger.
 
@@ -56,11 +84,15 @@ This lookbook provides visual inspiration for the tone, style, and world of "The
 
 ### THE TUNNELS / THE NEST
 
+![Tunnels and Nest reference](images/locations/tunnels-nest.png)
+
 **Description:** The home of the strays is the complete opposite of the android city. It is a network of ancient, crumbling subway tunnels. The main living area, the "Nest," is a vast, dark space centered around an overturned subway car. The only light comes from a fire burning in a rusted barrel. It is a makeshift, communal, and deeply "real" environment built from the salvaged ruins of a past world.
 
 **Visual Archetype:** Look for images of abandoned subway stations (like City Hall in NYC or the London Underground's ghost stations). Combine this with visuals from communities living in improvised shelters. The aesthetic is one of decay, resourcefulness, and shadow. The fire should be the central visual anchor, providing warmth and a focal point in the oppressive darkness.
 
 ### THE COLLAPSED BUILDINGS / THE WILDERNESS
+
+![Wilderness reference](images/locations/wilderness.png)
 
 **Description:** These are the spaces the androids have abandoned—areas of the old world that were too chaotic to pave over. They are crumbling, pre-android structures overgrown with vines and other hardy vegetation. This is where the strays forage for food. It is a a zone where nature is reclaiming the urban environment, existing in the cracks of the androids' perfect world.
 
