@@ -15,53 +15,6 @@ const SCREENPLAY_DIR = path.join(__dirname, 'screenplay');
 const MASTER_FILE = path.join(SCREENPLAY_DIR, 'the_pet_screenplay.fountain');
 const DEFAULT_OUTPUT = path.join(SCREENPLAY_DIR, 'the_pet_complete.fountain');
 
-/**
- * Build Configuration
- *
- * Customize transitions and formatting here. Common Fountain transitions:
- * - CUT TO:       (standard, default)
- * - FADE IN:      (fade from black)
- * - FADE OUT:     (fade to black)
- * - DISSOLVE TO:  (blend between scenes)
- * - FADE:         (another fade variant)
- * - >Custom       (force any text as transition with > prefix)
- */
-const CONFIG = {
-  // Transition between scenes
-  sceneTransition: 'CUT TO:',
-
-  // Add extra blank line before transition for readability
-  extraBlankLineBeforeTransition: false,
-};
-
-/**
- * Extract scene file references and their transitions from the master screenplay
- * Looks for patterns like:
- *   See: act_1_scene_01_morning_routine.fountain
- *
- *   CUT TO:
- *
- * Also handles the last scene which may not have a transition after it
- */
-function extractSceneReferences(content) {
-  // Match: "See: filename.fountain" followed by optional blank lines and optional transition
-  const sceneRegex = /See:\s+([^\n]+\.fountain)\s*(?:\n\s*\n\s*([A-Z0-9>][^\n]*))?/g;
-  const references = [];
-  let match;
-
-  while ((match = sceneRegex.exec(content)) !== null) {
-    const filename = match[1].trim();
-    // If no transition captured (last scene), use a default
-    const transition = match[2] ? match[2].trim() : 'CUT TO:';
-
-    references.push({
-      file: filename,
-      transition: transition,
-    });
-  }
-
-  return references;
-}
 
 /**
  * Read and validate a scene file
@@ -78,59 +31,44 @@ function readSceneFile(filename) {
 }
 
 /**
- * Build the complete screenplay
+ * Build the complete screenplay by replacing "See: filename" with actual content
  */
 function buildScreenplay() {
   console.log(`📖 Building screenplay from: ${MASTER_FILE}`);
 
   // Read master file
-  const masterContent = fs.readFileSync(MASTER_FILE, 'utf-8');
+  let output = fs.readFileSync(MASTER_FILE, 'utf-8');
 
-  // Extract scene references in order
-  const sceneReferences = extractSceneReferences(masterContent);
-
-  if (sceneReferences.length === 0) {
-    throw new Error('No scene references found in master file');
-  }
-
-  console.log(`📋 Found ${sceneReferences.length} scenes to combine\n`);
-
-  // Build output content
-  let output = '';
+  // Find all "See: filename.fountain" references and replace with actual content
+  const seeRegex = /See:\s+([^\n]+\.fountain)/g;
   let sceneCount = 0;
+  let match;
 
-  // Add title page section (copy everything up to the first CUT TO)
-  const titleMatch = masterContent.match(/^[\s\S]*?(?=CUT TO:|ACT I, SCENE)/);
-  if (titleMatch) {
-    output += titleMatch[0].trim() + '\n\n';
+  // We need to track matches separately since we're modifying the string
+  const matches = [];
+  while ((match = seeRegex.exec(output)) !== null) {
+    matches.push({
+      fullMatch: match[0],
+      filename: match[1].trim(),
+      index: match.index,
+    });
   }
 
-  // Combine all scenes
-  for (let i = 0; i < sceneReferences.length; i++) {
-    const sceneRef = sceneReferences[i];
-    const sceneFile = sceneRef.file;
-    const transition = sceneRef.transition;
-
+  // Process matches in reverse order to maintain correct indices
+  for (let i = matches.length - 1; i >= 0; i--) {
+    const matchInfo = matches[i];
     try {
-      const sceneContent = readSceneFile(sceneFile);
-      const cleanedContent = sceneContent.trim();
-
-      output += cleanedContent;
+      const sceneContent = readSceneFile(matchInfo.filename);
+      // Replace "See: filename" with the actual scene content
+      output = output.substring(0, matchInfo.index) + sceneContent + output.substring(matchInfo.index + matchInfo.fullMatch.length);
       sceneCount++;
-
-      // Add transition between scenes (but not after the last scene)
-      if (i < sceneReferences.length - 1) {
-        const blankLine = CONFIG.extraBlankLineBeforeTransition ? '\n' : '';
-        output += '\n' + blankLine + '\n' + transition + '\n\n';
-      }
     } catch (error) {
-      console.error(`❌ Error reading ${sceneFile}: ${error.message}`);
+      console.error(`❌ Error reading ${matchInfo.filename}: ${error.message}`);
       process.exit(1);
     }
   }
 
-  output += '\n\n' + '='.repeat(79) + '\n\n';
-  output += 'END OF SCREENPLAY\n';
+  console.log(`📋 Replaced ${sceneCount} scene references\n`);
 
   return output;
 }
