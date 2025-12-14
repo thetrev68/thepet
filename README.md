@@ -6,49 +6,39 @@ A sci-fi screenplay about a human kept as a pet by an android who escapes to fin
 
 ```
 /thepet
-├── README.md
+├── README.md                                    # This file
+├── CLAUDE.md                                    # Claude Code context and project instructions
+├── CHARACTER_BIBLE.md                           # Complete character psychology and performance direction
+├── COLOR_AND_LIGHTING_DESIGN.md                 # Visual palette, color theory, and lighting philosophy
+├── SOUND_DESIGN_GUIDE.md                        # Complete audio design and sonic strategy
+├── PRODUCTION_GUIDE_INDEX.md                    # Navigation guide for all production materials
 ├── /screenplay                                  # All screenplay files in Fountain format
 │   ├── act_1_scene_01_morning_routine.fountain
 │   ├── act_1_scene_02_exercise.fountain
-│   ├── act_1_scene_03_swimming.fountain
-│   ├── act_1_scene_04_bathroom.fountain
-│   ├── act_1_scene_05_evening.fountain
-│   ├── act_1_scene_06_transport_to_park.fountain
-│   ├── act_1_scene_07_park_activities.fountain
-│   ├── act_1_scene_08_ella_arrival.fountain
-│   ├── act_1_scene_09_return_transport.fountain
-│   ├── act_1_scene_10_preparation_room.fountain
-│   ├── act_1_scene_11_civic_center_arrival.fountain
-│   ├── act_1_scene_12_award_ceremony.fountain
-│   ├── act_1_scene_13_zephyr_failure.fountain
-│   ├── act_1_scene_14_recognition_corridor.fountain
-│   ├── act_1_scene_15_award_return_transport.fountain
-│   ├── act_1_scene_16_habitat_night.fountain
-│   ├── act_1_scene_17_spoon_discovered.fountain
-│   ├── act_1_scene_18_restless_dreams.fountain
-│   ├── act_1_scene_19_early_morning.fountain
-│   ├── act_1_scene_20_final_countdown.fountain
+│   ├── ... (20 Act I scenes)
 │   ├── act_2_scene_01_habitat_escape.fountain
-│   ├── act_2_scene_02_catwalk_escape.fountain
-│   ├── act_2_scene_03_city_chase.fountain
-│   ├── act_2_scene_04_meeting_ella.fountain
-│   ├── act_2_scene_05_tunnel_descent.fountain
-│   ├── act_2_scene_06_first_nest.fountain
-│   ├── act_2_scene_07_water_source.fountain
-│   ├── act_2_scene_08_identity_change.fountain
-│   ├── act_2_scene_09_foraging_lesson.fountain
-│   ├── act_2_scene_10_evening_gathering.fountain
-│   ├── act_2_scene_11_scouting_prep.fountain
-│   ├── act_2_scene_12_market_tunnel.fountain
-│   ├── act_2_scene_13_return_nest.fountain
+│   ├── ... (13 Act II scenes)
 │   ├── act_3_scene_01_rising_threat.fountain
-│   ├── act_3_scene_02_nest_preparation.fountain
-│   ├── act_3_scene_03_battle.fountain
-│   ├── act_3_scene_04_rooftop_freedom.fountain
-│   ├── act_3_scene_05_epilogue.fountain
-│   └── the_pet_screenplay.fountain         # Master screenplay file
-├── /notes              # Development materials and world-building
-└── /archive            # Old versions and drafts
+│   ├── ... (5 Act III scenes)
+│   └── the_pet_screenplay.fountain              # Master screenplay file
+├── /storyboard                                  # Complete visual storyboards for all 38 scenes
+│   ├── act_1_scene_01.md through 20.md          # Act I storyboards with enhanced emotional depth
+│   ├── act_2_scene_01.md through 13.md          # Act II storyboards with cinematic detail
+│   └── act_3_scene_01.md through 05.md          # Act III storyboards with epic scale
+├── /lookbook                                    # Visual reference and inspiration
+│   └── lookbook.md                              # Character archetypes, location descriptions, visual motifs
+├── /shot-list                                   # Technical camera specifications
+│   ├── act_1.md                                 # 77 detailed shots for Act I
+│   ├── act_2.md                                 # Shot-by-shot breakdown with camera tech specs
+│   └── act_3.md                                 # Epic framing and intimate moments
+├── /floorplans                                  # Set design and spatial reference
+│   ├── habitat.md                               # Axl's habitat and Nexus's domain
+│   ├── human_park.md                            # Controlled socialization space
+│   ├── nest_layout.md                           # Stray pack headquarters
+│   └── civic_center_chamber.md                  # Android authority hub
+├── /notes                                       # Development materials and world-building
+├── /archive                                     # Old versions and drafts
+└── BUILD.md                                     # Build system documentation
 ```
 
 ## Story Overview
@@ -95,6 +85,48 @@ The androids' response to the escaped pet becomes a larger threat to the entire 
 - Found family and community
 - Resistance and rebellion
 
+## Production Status
+
+**✅ READY FOR PRODUCTION** - Comprehensive pre-production documentation complete.
+
+### Complete Deliverables
+
+**Screenplay:**
+- ✅ All 38 scenes written in Fountain format
+- ✅ Master screenplay file with complete story
+- ✅ Build system for compiling complete screenplay
+
+**Visual Materials:**
+- ✅ 38 complete detailed storyboards (all acts)
+- ✅ Storyboard emotional and sensory enhancements
+- ✅ Visual lookbook with character and location reference
+- ✅ Detailed shot lists with camera specifications (Act I: 77 shots)
+- ✅ Floor plans for all major locations
+
+**Production Guides:**
+- ✅ **CHARACTER_BIBLE.md** - Character psychology, arcs, dialogue patterns, performance direction
+- ✅ **COLOR_AND_LIGHTING_DESIGN.md** - Color palettes, lighting schemes, hex values, cinematography
+- ✅ **SOUND_DESIGN_GUIDE.md** - Audio landscape, ambient design, music philosophy, technical specs
+- ✅ **PRODUCTION_GUIDE_INDEX.md** - Navigation and usage guide for all materials
+
+### What You Can Do Now
+
+1. **Brief Visual Artists/AI:** Share lookbook + storyboards + COLOR_AND_LIGHTING_DESIGN.md
+2. **Brief Cinematographer:** Share shot lists + COLOR_AND_LIGHTING_DESIGN.md
+3. **Brief Sound Designer:** Share SOUND_DESIGN_GUIDE.md + storyboards
+4. **Brief Actors/Director:** Share CHARACTER_BIBLE.md + storyboards
+5. **Plan Production Design:** Use floor plans + COLOR_AND_LIGHTING_DESIGN.md + lookbook
+
+### What You Still May Want
+
+Optional documents for next phase:
+- Production Design Bible (materials, textures, props)
+- Cinematography Bible (lens strategy, movement language)
+- Actor Direction Guide (gesture vocabulary, emotional cues)
+- Costume & Makeup Progression (character visual evolution)
+- Location Scouting Guide (adapting storyboards to real locations)
+- Budget & Schedule (timeline and resources)
+
 ## File Format
 
 All screenplay files are written in **Fountain format** (.fountain), an industry-standard plain-text screenplay format compatible with:
@@ -109,3 +141,5 @@ All screenplay files are written in **Fountain format** (.fountain), an industry
 - Each scene is a separate file for easier revision and collaboration
 - Files are named with act, scene number, and brief description for easy identification
 - Scenes naturally sort in story order when viewed alphabetically
+- All storyboard files are in Markdown (.md) format for easy editing and version control
+- All production guides are comprehensive, self-contained reference documents
