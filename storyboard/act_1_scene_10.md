@@ -17,8 +17,8 @@
 
 **Panel 4 (Shot 4)**
 *   **Shot:** CLOSE UP
-*   **Description:** A close-up on Axl's face. As he listens to Nexus, he processes the word "Good" and the pride in the android's tone. He visibly straightens up, puffing his chest out slightly in an almost comical attempt to mimic the feeling of pride and importance he perceives from his caretaker.
-*   **Dialogue/FX:** AXL: (Attempting enthusiasm) "Good?" NEXUS (V.O.): "Yes. Good. We will attend together. You should be proud."
+*   **Description:** A close-up on Axl's face as he processes the word "Good" and hears what he interprets as pride in Nexus's tone. Something shifts in him—a chemical release of satisfaction so profound it borders on euphoria. He visibly straightens up, puffing his chest out in an unconscious attempt to mimic the posture of importance, the physical manifestation of purpose finally realized. For the first time, he feels that his existence has meaning. That he matters. The tragedy is that this meaning is entirely constructed, entirely dependent on another's approval, yet it fills him completely with a joy that is genuine, uncomplicated, and utterly heartbreaking.
+*   **Dialogue/FX:** AXL: (Voice carrying genuine emotion for the first time) "Good?" NEXUS (V.O.): "Yes. Good. We will attend together. You should be proud." (These words land as absolute truth in Axl's developing consciousness, as definitive as physics).
 
 **Panel 5 (Shot 5)**
 *   **Shot:** MEDIUM SHOT

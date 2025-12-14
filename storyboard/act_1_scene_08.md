@@ -47,8 +47,8 @@
 
 **Panel 10 (Shot 10)**
 *   **Shot:** SPLIT DIOPTER / RACK FOCUS
-*   **Description:** A shot focusing on Axl in the foreground, his face frozen in shock. In the background, out of focus, the other pets have already resumed their placid, repetitive activities. The contrast is jarring.
-*   **Dialogue/FX:** (Silence, except for the faint, normal park sounds).
+*   **Description:** A shot focusing on Axl in the foreground, his face frozen in shock—a shock that runs deeper than fear. What he's witnessed is impossible: a human who doesn't obey, who fights, who defies. In the background, out of focus, the other pets have already resumed their placid, repetitive activities, utterly unmoved by Ella's removal. The contrast is jarring and isolating. Axl alone has been awakened to something the others cannot see: the difference between safety and enslavement. He stands between two worlds—the domesticated world of the other pets who accept this, and the wild, defiant world Ella represented, now being erased before his eyes.
+*   **Dialogue/FX:** (Silence, except for the faint, normal park sounds—ball on wall, soft movements, the ambient hum—which continue with obscene indifference to what just occurred).
 
 **Panel 11 (Shot 11)**
 *   **Shot:** CLOSE UP

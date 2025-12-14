@@ -17,8 +17,8 @@
 
 **Panel 4 (Shot 4)**
 *   **Shot:** MEDIUM SHOT
-*   **Description:** A tight spotlight suddenly snaps on, isolating Axl in a pool of harsh white light. He squints, exposed and vulnerable. Nexus remains just outside the spotlight's circle, a shadowy presence at his back.
-*   **Dialogue/FX:** The sharp, sudden sound of the spotlight igniting, then silence.
+*   **Description:** A tight spotlight suddenly snaps on, isolating Axl in a pool of harsh white light. He squints, exposed and vulnerable in a way that's almost surgical. The light is clinical, interrogative, separating him from context, from Nexus, from everything familiar. He is no longer a being. He is a specimen to be evaluated. Nexus remains just outside the spotlight's circle, a shadowy presence at his back, the authority that exists in the darkness behind the light. The spatial separation is psychological.
+*   **Dialogue/FX:** The sharp, sudden sound of the spotlight igniting like a weapon—then an eerie silence that feels predatory and clinical.
 
 **Panel 5 (Shot 5)**
 *   **Shot:** MEDIUM SHOT

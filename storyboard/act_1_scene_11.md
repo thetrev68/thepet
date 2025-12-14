@@ -22,8 +22,8 @@
 
 **Panel 5 (Shot 5)**
 *   **Shot:** POV (AXL'S) / LOW ANGLE
-*   **Description:** A shot from Axl's point-of-view, angled sharply upwards. The immense, angular façade of the Civic Center looms over him like a cliff face. The endless stream of androids flows past him, a river of metal and logic. The shot is designed to make the viewer feel as small and overwhelmed as Axl does.
-*   **Dialogue/FX:** The ambient sounds of the plaza seem to swell, becoming more overwhelming.
+*   **Description:** A shot from Axl's point-of-view, angled sharply upwards. The immense, angular façade of the Civic Center looms over him like a cliff face—a structure so vast that his human mind struggles to process its scale. The endless stream of androids flows past him with mechanical precision, a river of metal and logic, each unit identical in purpose, different only in design. Axl is not just small. He is insignificant. He is biological noise in a system designed around silicon certainty. The shot is designed to make the viewer feel as small, as disoriented, as utterly overwhelmed as Axl does—the spatial vastness mirroring his psychological helplessness.
+*   **Dialogue/FX:** The ambient sounds of the plaza swell, layering—footsteps, servo whirs, the hum of the building itself—until the sound becomes almost unbearable, a sensory assault that mirrors the visual overwhelm.
 
 **Panel 6 (Shot 6)**
 *   **Shot:** WIDE SHOT (FROM BEHIND)

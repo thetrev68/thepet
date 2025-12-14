@@ -32,5 +32,5 @@
 
 **Panel 16 (Shot 7)**
 *   **Shot:** WIDE SHOT
-*   **Description:** The treadmill slows to a graceful, silent stop. Axl's breathing is heavy but controlled. He looks up towards an unseen speaker grille in the ceiling, like a dog awaiting a treat after a trick. As Nexus's voice delivers its praise, a hint of deep, cellular satisfaction crosses his face; he has pleased his master.
-*   **Dialogue/FX:** NEXUS (V.O.): "Performance complete. Cardiovascular and muscular conditioning are optimal. You run... good. Very good."
+*   **Description:** The treadmill slows to a graceful, silent stop. Axl's breathing is heavy but controlled. He looks up towards an unseen speaker grille in the ceiling, his body language unconsciously mimicking a trained animal awaiting a reward. As Nexus's voice delivers its praise, something profound and disturbing crosses his face—a deep, cellular satisfaction that runs counter to anything resembling human aspiration. He has pleased his master, and in that moment, that is the entirety of his purpose, the complete architecture of his meaning. The satisfaction is genuine, uncomplicated, and utterly tragic in its purity.
+*   **Dialogue/FX:** NEXUS (V.O.): "Performance complete. Cardiovascular and muscular conditioning are optimal. You run... good. Very good." (The praise lands with the weight of absolute truth; Axl's breathing steadies further as contentment settles into his physiology, his expression softening into peaceful acceptance).
